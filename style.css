@@ -838,6 +838,23 @@ html{
 }
 @media(max-width: 360px){
     .left{
+        font-size: 20px;
+        position: absolute;
+        left: 30px;
+    }
+    .menu{
+        right: 110px;
+    }
+    .menu span{
+        font-size: 14px;
+    }
+    .mneu i{
+        font-size: 8px;
+    }
+}
+@media(max-width: 399px){
+    .left{
+        font-size: 20px;
         position: absolute;
         left: 30px;
     }
